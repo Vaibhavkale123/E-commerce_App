@@ -1,0 +1,36 @@
+target/
+
+.eclipse/
+.project
+.classpath
+
+Thumbs.db*
+
+# Maven
+**/pom.xml
+
+# Application specific log files
+*.log
+
+# Local development settings
+**/application-*.properties
+**/local.properties
+
+**/web.xml
+
+
+# Build output
+node_modules/
+build/
+dist/
+
+# Dependency lock file
+package-lock.json
+
+# VS Code specific
+.vscode/
+
+# Editor temporary/cache files
+.eslintcache
+.prettierrc.js
+
