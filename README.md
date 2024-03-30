@@ -4,10 +4,11 @@ This is a  E-commerce App built with Spring Boot, React.js, and MySQL.
 
 ## Features
 
-1. **Admin can add product and category**: The admin has the ability to add new product and category.
-2. **User can browse and order**: User can order the product and track it's order
+1. **Admin can add product and categories**: The admin has the ability to add new products and categories.
+2. **User can browse and order**: User can order the products and track their order
 3. **User Registration**: Users can register in the application to create an account.
-4. **Delivery person can schedule delivery of product**: The delivery can eastimate it's product delivey timeline.
+4. **Delivery person can schedule delivery of products**:The delivery person can estimate the product delivery timeline.
+
 
 ## Technologies Used
 
