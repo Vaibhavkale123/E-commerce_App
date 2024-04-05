@@ -1,4 +1,4 @@
-# fullstack E-commerce App
+# E-commerce App
 
 This is a  E-commerce App built with Spring Boot, React.js, and MySQL.
 
